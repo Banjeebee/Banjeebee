@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Ire! 👋
 
-<!--
-**Banjeebee/Banjeebee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Web Developer
+I am a student currently learning about **Python**, **Javascript**, and **HTML**. I'm passionate about using technology to solve problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+- **Languages:** HTML, CSS, JavaScript (Learning)
+- **Tools:** VS Code, Git, GitHub
+- **Interests:** STEM, Coding, and Music
+
+---
+
+### 📬 How to reach me
+- 📧 Email: ireawesomeuu@gmail.com
+- 🌐 Portfolio: *Coming soon!* (We will build this in the next steps)
+
+---
+*"The best way to predict the future is to create it."*
