@@ -10,7 +10,7 @@ I am a multidisciplinary STEM student currently focusing on **Web Development** 
 - 🔭 I’m currently working on: **My Professional Portfolio**
 - 📚 I’m currently learning: **Advanced JavaScript, HTML5/CSS3**
 - 🎯 My goal: **To contribute to STEM education through technology**
-- ⚡ Fun fact: **I am a student of Atmospheric Physics principles!**
+- ⚡ Fun fact: **..**
 
 ---
 
