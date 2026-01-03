@@ -23,8 +23,8 @@ I am a multidisciplinary STEM student currently focusing on **Web Development** 
 ---
 
 ### 🌐 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://[username].github.io/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:student-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://banjeebee.github.io/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ireawesomeuu@gmail.com)
 
 ---
 
