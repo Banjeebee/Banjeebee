@@ -14,7 +14,7 @@ I am a student currently learning about **Python**, **Javascript**, and **HTML**
 
 ### 📬 How to reach me
 - 📧 Email: ireawesomeuu@gmail.com
-- 🌐 Portfolio: [Check out my live portfolio here!](https://[username].github.io/)
+- 🌐 Portfolio: [Check out my live portfolio here!](https://banjeebee.github.io/)
 
 ---
 *"The best way to predict the future is to create it."*
