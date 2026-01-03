@@ -22,14 +22,6 @@ I am a multidisciplinary STEM student currently focusing on **Web Development** 
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Banjeebee&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banjeebee&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://[username].github.io/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:student-email@example.com)
