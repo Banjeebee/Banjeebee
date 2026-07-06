@@ -49,10 +49,10 @@ const ire = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Banjeebee&show_icons=true&hide_title=true&hide_border=true&bg_color=05070D&title_color=5AA9FF&icon_color=5AA9FF&text_color=E8EDF7&ring_color=2F6FED" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banjeebee&layout=compact&hide_border=true&bg_color=05070D&title_color=5AA9FF&text_color=E8EDF7&langs_count=6" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Banjeebee&show_icons=true&count_private=false&hide_title=true&hide_border=true&bg_color=05070D&title_color=5AA9FF&icon_color=5AA9FF&text_color=E8EDF7&ring_color=2F6FED" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Banjeebee&layout=compact&hide_border=true&bg_color=05070D&title_color=5AA9FF&text_color=E8EDF7&langs_count=6" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Banjeebee&hide_border=true&background=05070D&stroke=16233D&ring=2F6FED&fire=5AA9FF&currStreakLabel=5AA9FF&sideLabels=E8EDF7&currStreakNum=E8EDF7&sideNums=E8EDF7&dates=8592AB" />
+<img src="https://streak-stats.demolab.com/?user=Banjeebee&hide_border=true&background=05070D&stroke=16233D&ring=2F6FED&fire=5AA9FF&currStreakLabel=5AA9FF&sideLabels=E8EDF7&currStreakNum=E8EDF7&sideNums=E8EDF7&dates=8592AB" />
 
 </div>
 
@@ -63,8 +63,12 @@ const ire = {
 <div align="center">
 
 <a href="https://github.com/Banjeebee/smart-form-validator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Banjeebee&repo=smart-form-validator&bg_color=05070D&title_color=5AA9FF&text_color=E8EDF7&border_color=16233D&hide_border=false" />
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Banjeebee&repo=smart-form-validator&bg_color=05070D&title_color=5AA9FF&text_color=E8EDF7&border_color=16233D" />
 </a>
+
+<br/>
+
+<a href="https://banjeebee.github.io/smart-form-validator/"><img src="https://img.shields.io/badge/View_Live_Demo-2F6FED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 </div>
 
